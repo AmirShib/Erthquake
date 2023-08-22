@@ -22,5 +22,6 @@ To use this repository and visualize the earthquake data, follow these steps:
 	````pip install -r requirements.txt````
 	
 3. **Run the Visualization**
+
 	````python visualize.py````
 	
