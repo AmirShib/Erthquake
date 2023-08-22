@@ -1,3 +1,7 @@
 
-.gitignore.txt
+
 __pycache__/
+*.py[cod]
+
+
+.gitignore.txt
