@@ -108,4 +108,4 @@ def create_figure(mags, places, lons, lats, alert):
         showrivers=True, rivercolor="Blue"
     )
     
-    return fig
+    return fig 

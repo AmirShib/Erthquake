@@ -19,4 +19,3 @@ if __name__ == '__main__':
 
     # create a plotly figure and plot it 
     fig = create_figure(mags, places, lons, lats, alert)
-    offline.plot(fig,filename="global_erthquakes.html")
